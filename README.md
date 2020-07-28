@@ -4,7 +4,8 @@
  
 ## I'm Kássio Kley!
  
-… Insira suas descrições aqui!
+Student of computer science and analysis, systems development and
+passionate about technology
  
  
 ## About me 
